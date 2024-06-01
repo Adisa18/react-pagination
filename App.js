@@ -17,7 +17,7 @@ function App(){
     <RootReducer />
     <UserPopup />
     <Fetchusers />
-  </Provider>)
+  <Provider />)
 
 }
 
